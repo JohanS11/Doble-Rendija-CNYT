@@ -6,7 +6,7 @@ En la física, una luz puede asemejarse a una onda, por lo que cuando este rayo 
 
 Representación gráfica
 
-![uml](img/doble.png)
+![uml](img/doble.jpg)
 
 # Justificación del efecto
 
