@@ -23,3 +23,11 @@ Aquí es donde entra la Física cuántica a explicar este fenómeno. Hoy en día
 
 Esta teoría abre la posbilidad de hablar del multiverso, en donde las partículas que están en nuestro universo tiene diferentes historias de ellas misma pertenecientes a otros universos, y que entre ellas pueden afectarse.
 
+# Montaje
+
+https://www.youtube.com/watch?v=o7jDUtASzG8&feature=youtu.be
+
+# Explicación matemática (Librería cuantica)
+
+
+
