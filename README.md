@@ -23,11 +23,114 @@ Aquí es donde entra la Física cuántica a explicar este fenómeno. Hoy en día
 
 Esta teoría abre la posbilidad de hablar del multiverso, en donde las partículas que están en nuestro universo tiene diferentes historias de ellas misma pertenecientes a otros universos, y que entre ellas pueden afectarse.
 
+
+# Explicación matemática (Librería cuantica)
+
+* [Código fuente de la libreria en Python3](https://github.com/JohanS11/ComplexCalculator)
+
+## Mátriz utilizada para experimento con números reales
+
+  ![matriz1](img/matriz1.jpg)
+  
+### Resultado despues de n clicks
+
+**t = 1**
+
+#### Probabilidades calculadas
+
+* P(X1) = 1/2
+* P(X2) = 1/2
+* P(X3) = 0
+* P(X4) = 0
+* P(X5) = 0
+* P(X6) = 0
+* P(X7) = 0
+* P(X8) = 0
+
+![matriz1](img/res1.jpg)
+
+### Resultado despues de n clicks
+
+**t = 4**
+
+#### Probabilidades calculadas
+
+* P(X1) = 0
+* P(X2) = 0,16666666
+* P(X3) = 0
+* P(X4) = 0,22222
+* P(X5) = 0,38888
+* P(X6) = 0,1666666
+* P(X7) = 0,1666666
+* P(X8) = 0,1666666
+
+![matriz1](img/res4clicks.jpg)
+
+## Mátriz utilizada para experimento con números complejos
+
+ ![matriz1](img/matriz2.jpg)
+  
+### Resultado despues de n clicks
+
+**t = 1**
+
+#### Probabilidades calculadas
+
+* P(X1) = 0
+* P(X2) = 0,70710678
+* P(X3) = 0,70710678
+* P(X4) = 0
+* P(X5) = 0
+* P(X6) = 0
+* P(X7) = 0
+* P(X8) = 0
+
+![matriz1](img/res1ima.jpg)
+
+### Resultado despues de n clicks
+
+**t = 4**
+
+#### Probabilidades calculadas
+
+* P(X1) = 0
+* P(X2) = 0.40824829
+* P(X3) = 0
+* P(X4) = 0.40824829
+* P(X5) = -0.40824829
+* P(X6) = 0,816496580
+* P(X7) = 0,1666666
+* P(X8) = 0,1666666
+
+![matriz1](img/res4ima.jpg)
+
+### Justificación
+
+Gracias al experimento realizado anteriormente con nuestra librería cuántica podemos inferir que despues de varios clicks, en el sistema comienza a aparecer el concepto de "interferencia" ya que los  fotones de luz no viajan a dos lados solamente, por el contrario, se dispersan en múltiples puntos.La explicación está basada en la teoría de los multiversos.
+
 # Montaje
+
+## Evidencias
+
+
+![matriz1](img/db.jpg)
+
+![matriz1](img/total.jpg)
+
+  
+## Video del experimento
 
 https://www.youtube.com/watch?v=o7jDUtASzG8&feature=youtu.be
 
-# Explicación matemática (Librería cuantica)
+# Integrantes
+
+* Johan Sebastian Arias [JohanS11](https://github.com/JohanS11)
+* Orlando Antonio Gelves [orlandoagk](https://github.com/orlandoagk)
+
+
+
+ 
+  
 
 
 
