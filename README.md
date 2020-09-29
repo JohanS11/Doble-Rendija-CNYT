@@ -91,17 +91,6 @@ Esta teoría abre la posbilidad de hablar del multiverso, en donde las partícul
 
 **t = 4**
 
-#### Probabilidades calculadas
-
-* P(X1) = 0
-* P(X2) = 0.40824829
-* P(X3) = 0
-* P(X4) = 0.40824829
-* P(X5) = -0.40824829
-* P(X6) = 0,816496580
-* P(X7) = 0,1666666
-* P(X8) = 0,1666666
-
 ![matriz1](img/res4ima.jpg)
 
 ### Justificación
