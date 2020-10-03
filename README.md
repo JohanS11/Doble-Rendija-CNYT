@@ -101,21 +101,23 @@ Gracias al experimento realizado anteriormente con nuestra librería cuántica p
 
 ## Evidencias
 
+**Materiales**
 
-![matriz1](img/db.jpg)
+- Laser
+- Mina 0.5
 
-![matriz1](img/total.jpg)
 
-  
+![matriz1](img/laser.jpeg)
+
+![patron](img/patron.jpg)
+
 ## Video del experimento
 
-https://www.youtube.com/watch?v=o7jDUtASzG8&feature=youtu.be
+https://youtu.be/Lu7Gh_akJpI
 
 # Integrantes
 
 * Johan Sebastian Arias [JohanS11](https://github.com/JohanS11)
-* Orlando Antonio Gelves [orlandoagk](https://github.com/orlandoagk)
-
 
 
  
